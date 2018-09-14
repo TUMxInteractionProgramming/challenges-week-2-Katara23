@@ -43,6 +43,7 @@ ul {
 }
 
 ul .selected {
+    color: #3F51B5;
     border-left: 4px solid #3F51B5;
 }
 
@@ -79,6 +80,7 @@ ul img {
 }
 
 #tab-bar .selected {
+    color: #3F51B5;
     border-bottom: 4px solid #3F51B5;
 }
 
